@@ -1,0 +1,2 @@
+# reki_resourcepack
+resourcepack_created_by_rekiemon
